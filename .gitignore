@@ -218,4 +218,3 @@ pip-log.txt
 .target
 .TestProject
 .README.md
-!/src/main/resources/
